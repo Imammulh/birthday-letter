@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Assistant:wght@400;700&family=Cutive+Mono&family=Nanum+Pen+Script&display=swap");
+/* font-family: 'Assistant', sans-serif;
+font-family: 'Cutive Mono', monospace;
+font-family: 'Nanum Pen Script', cursive; */
+
+.display-nanum {
+  font-family: "Nanum Pen Script", cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 96px;
+  line-height: 140%;
+  color: #111111;
+}
+.h1-nanum {
+  font-family: "Nanum Pen Script", cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 140%;
+  /* or 67px */
+  color: #111111;
+}
+
+.h2-nanum {
+  font-family: "Nanum Pen Script", cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 140%;
+  /* or 50px */
+  color: #111111;
+}
+
+.h3-nanum {
+  font-family: "Nanum Pen Script", cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 140%;
+  /* identical to box height, or 34px */
+  color: #111111;
+}
+
+.h1-assistant {
+  font-family: "Assistant", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 84px;
+  /* identical to box height */
+  color: #111111;
+}
+
+.h2-assistant {
+  font-family: "Assistant", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 42px;
+  /* identical to box height */
+  color: #111111;
+}
+
+.b1-assistant {
+  font-family: "Assistant", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 47px;
+  /* identical to box height */
+  color: #111111;
+}
+
+.b2-assistant {
+  font-family: "Assistant", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 26px;
+  color: #111111;
+}
+
+.b1-cutive {
+  font-family: "Cutive Mono", monospace;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 160%;
+  color: #000000;
+}

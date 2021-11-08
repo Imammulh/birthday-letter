@@ -1,0 +1,33 @@
+html {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fffefc;
+  color: #111111;
+}
+
+.content-container {
+  width: auto;
+  height: 100vh;
+}
+
+.website-content {
+  width: 56%;
+}
+
+.illus-1 {
+  width: 204px;
+  height: 212px;
+}
+
+a {
+  color: #e16259;
+}
+
+a:hover {
+  color: #cc5a52;
+}
